@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url('images/bg.jpg') no-repeat center center fixed;
+    background: url('bg.jpg') no-repeat center center fixed;
     background-size: cover;
     color: white;
     overflow: hidden;
@@ -90,23 +90,23 @@ h1 {
 
 /* Background images for individual buttons */
 #w {
-    background-image: url('images/drum.jpeg');
+    background-image: url('drum.jpeg');
 }
 #a {
-    background-image: url('images/cymal.jpg');
+    background-image: url('cymal.jpg');
 }
 #s {
-    background-image: url('images/drum.webp');
+    background-image: url('drum.webp');
 }
 #d {
-    background-image: url('images/snaredrum.webp');
+    background-image: url('snaredrum.webp');
 }
 #j {
-    background-image: url('images/dum2.webp');
+    background-image: url('dum2.webp');
 }
 #k {
-    background-image: url('images/tom.jpg');
+    background-image: url('tom.jpg');
 }
 #l {
-    background-image: url('images/drum3.jpg');
+    background-image: url('drum3.jpg');
 }
